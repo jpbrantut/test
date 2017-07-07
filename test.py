@@ -7,3 +7,6 @@ from qo.constants import *
 
 x = arange(-1,1,0.001)
 y = exp(-x**2/05**2)
+figure()
+plot(x,y)
+show()
